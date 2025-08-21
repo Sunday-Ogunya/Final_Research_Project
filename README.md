@@ -33,8 +33,9 @@ Both **linear** and **non-linear** models were compared to provide insights that
 
 📂 Repository Structure
 
-Final_Research_Project/
-data/
-notebooks/
-results/  
- README.md
+Final_Research_Project
+|
+-Datasets ( Excel )/
+-Python File/ .ipnyb
+-Output Plot/  
+-README.md
